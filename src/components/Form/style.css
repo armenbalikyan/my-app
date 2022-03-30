@@ -1,3 +1,4 @@
+@import 'antd/dist/antd.css';
 .button{
     background-color: blue;
     color: white;
@@ -9,4 +10,8 @@
     height: 100vh;
     justify-content: center;
     align-items: center;
+}
+.searchInput{
+    width: 250px !important;
+    margin: 20px;
 }
